@@ -1,3 +1,3 @@
-# Statistical-Infurence
+# Statistical-Inference
 
 
